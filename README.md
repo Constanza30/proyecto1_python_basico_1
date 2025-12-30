@@ -1,12 +1,12 @@
-#📊 Proyecto 1: Limpieza y Preparación de Datos de Usuarios (Python Básico)
+📊 #Proyecto 1: Limpieza y Preparación de Datos de Usuarios (Python Básico)
 
-🧩 Descripción del proyecto
+🧩 ##Descripción del proyecto
 
 Este proyecto forma parte del Bootcamp de Análisis de Datos de TripleTen y tiene como objetivo evaluar la calidad de una muestra de datos de usuarios, identificar inconsistencias y aplicar técnicas básicas de limpieza y preparación de datos utilizando Python.
 
 El dataset simula información de clientes de Store 1, incluyendo identificadores de usuario, nombres, edades, categorías de consumo y montos de gasto. El proyecto se enfoca en preparar estos datos para futuros análisis, asegurando coherencia, consistencia y facilidad de uso.
 
-🎯 Objetivos del proyecto
+🎯 ##Objetivos del proyecto
 
 Evaluar la calidad de los datos proporcionados por el cliente.
 
